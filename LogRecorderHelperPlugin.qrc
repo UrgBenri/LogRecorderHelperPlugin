@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/LogRecorderHelperPlugin">
+        <file alias="loading">img/loading.gif</file>
+        <file alias="rec_icon">img/record.png</file>
+        <file alias="stop_icon">img/stop.png</file>
+        <file alias="tabIcon">img/rec.png</file>
+        <file alias="plugin.en">i18n/plugin_en.qm</file>
+        <file alias="plugin.fr">i18n/plugin_fr.qm</file>
+        <file alias="plugin.ja">i18n/plugin_ja.qm</file>
+    </qresource>
+</RCC>

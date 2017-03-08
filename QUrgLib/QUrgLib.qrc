@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/testfile">
+        <file alias="connection">tests/data/connection.log</file>
+    </qresource>
+</RCC>
